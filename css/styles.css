@@ -33,7 +33,12 @@ footer {
 }
 
 .regular {
-  font-weight: 400;
+  font-weight: 700px;
+}
+
+.m-c {
+  font-weight: 800px;
+  font-family:  sans-serif ;
 }
 
 .heading-xl {
@@ -65,7 +70,7 @@ footer {
   font-family: "Epilogue";
   font-size: 16px;
   line-height: 26px;
-  letter-spacing: -2.5px;
+  letter-spacing: 2.5px;
   color: #172339;
 }
 
@@ -221,10 +226,10 @@ footer {
   }
 
   .curved-line {
-    left: 50%;
+    left: 42%;
     position: relative;
-    width: 35%;
-    top: 0;
+    width: 45%;
+    top: 0px;
   }
 
   .heading-xl {
@@ -371,7 +376,7 @@ footer {
     font-size: 32px;
     line-height: 32px;
     margin-top: 8px;
-    font-weight: bold;
+    font-weight: 700;
     letter-spacing: -0.44px;
     text-decoration: none;
     color: #172339;
@@ -384,10 +389,10 @@ footer {
   }
 
   .curved-line {
-    left: 230px;
+    left: 220px;
     position: relative;
-    width: 190px;
-    top: 0;
+    width: 230px;
+    top: 0px;
   }
 
   .heading-xl {
@@ -588,14 +593,15 @@ footer {
   .secondary-button {
     font-size: 16px;
     line-height: 32px;
-    letter-spacing: 0.16px;
+    letter-spacing: 0.18px;
+    font-weight: bold;
   }
 
   .curved-line {
-    left: 290px;
+    left: 270px;
     position: relative;
-    width: 245px;
-    top: 0;
+    width: 280px;
+    top: 26px;
   }
 
   .heading-xl {
@@ -605,7 +611,9 @@ footer {
     line-height: 78px;
     letter-spacing: -1px;
     color: #172339;
-    width: 670px;
+    width: 635px;
+    font-weight: 400;
+    font-style: normal;
   }
 
   .primary-button {
@@ -637,10 +645,10 @@ footer {
   }
 
   .hero-2 {
-    width: 35%;
+    width: 40%;
     z-index: -10;
     position: relative;
-    left: -90px;
+    left: -95px;
     bottom: -70px;
   }
 
