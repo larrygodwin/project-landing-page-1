@@ -4,4 +4,10 @@
 
 body{
     background-image: url('image/abstract-3291293_1280.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 80%;
+    margin: auto;
 }
+
