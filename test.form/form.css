@@ -90,3 +90,36 @@ body{
     margin-left: 55px;
 }
 
+.P4 label{
+    color: #fff;
+}
+
+.P4 input{
+    width: 300px;
+    height: 35px;
+    border: none;
+    margin-left: 78px;
+}
+
+.P5 label{
+    color: #fff;
+}
+
+.P5 input{
+    width: 300px;
+    height: 35px;
+    border: none;
+    margin-left: 78px;
+}
+
+.P6 label{
+    color: #fff;
+}
+
+.P6 input{
+    width: 300px;
+    height: 35px;
+    border: none;
+    margin-left: 30px;
+}
+
