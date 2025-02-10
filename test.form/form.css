@@ -13,9 +13,27 @@ body{
 
 .header{
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 150px;
+    text-align: left;
+    color: #fff;
 }
 
-.header h1{
-    
+.header h2{
+    font-size: 18px;
+    margin-bottom: 1px;
+    font-weight: bolder;
 }
 
+.header p{
+     margin-top: 5px;
+     border-bottom: 1px solid #fff;
+     padding-bottom: 20px;
+}
+
+.container{
+  font-size: 16px;
+}
+
+.soft{
+    font-size: 16px;
+}
