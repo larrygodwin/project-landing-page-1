@@ -35,8 +35,10 @@ body{
 }
 
 .name{
-
+   color: #fff;
+   
 }
+
 
 .soft{
     font-size: 16px;
@@ -75,5 +77,16 @@ body{
     width: 300px;
     height: 35px;
     border: none;
+}
+
+.P3 label{
+    color: #fff;
+}
+
+.P3 input{
+    width: 300px;
+    height: 35px;
+    border: none;
+    margin-left: 55px;
 }
 
